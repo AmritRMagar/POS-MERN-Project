@@ -1,1 +1,1 @@
-# POS-Project-
+# POS-MERN-Project
